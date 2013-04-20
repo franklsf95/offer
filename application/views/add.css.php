@@ -1,0 +1,1 @@
+    <link href="/offer/static/select2/select2.css" rel="stylesheet">
